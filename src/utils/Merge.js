@@ -1,5 +1,3 @@
-// From stackoverflow https://stackoverflow.com/questions/27936772/how-to-deep-merge-instead-of-shallow-merge
-
 /**
  * Simple object check.
  * @param item
